@@ -1593,6 +1593,10 @@ img.shape9 {
 	bottom: 0;
 	visibility: visible;
 	opacity: 1;
+	background-color: #14232d;
+	width: 100%;
+	padding: 15px;
+	border-radius: 20px;
 }
 
 .list-item:hover figcaption {
@@ -1609,9 +1613,10 @@ img.shape9 {
 }
 
 .portfolio-item-desc {
-	opacity: 0.8;
+	opacity: 1;
 	text-transform: capitalize;
 	font-size: 14px;
+	font-weight: 500;
 }
 
 /* ---------------------------------------------- 
